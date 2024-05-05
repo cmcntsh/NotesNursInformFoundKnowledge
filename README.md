@@ -14,7 +14,21 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * knowledge consumer, knowledge broker, knowledge generator
 * Wisdom is the appropriate application of knowledge to a situation. (p. 16)
 
-## Ch 2
+## Ch 2 Introduction to information, information science, information systems
+
+* Building blocks of nursing informatics (p. 22): nursing science, information science, computer science, cognitive science
+* data - raw facts, information - processed data that has meaning (p. 22)
+* Threats to data integrity (p. 24) human error, malware, machine error, transmission failures
+* 5 rights of information: right person, right information, right time, right format, [right channel/workflow] (p. 24)
+* information science (p. 26): cognitive science, communication science, computer science, library science, social science
+* determinism? (p. 26)
+* useful information (p. 26): accessible, accurate, timely, complete, cost-effective, flexible, reliable, relevant, simple, verifiable, secure, viable
+* wisdom (p. 27) ability to act appropriately
+* Information science definition (p. 28) - multidisciplinary aspects of computer science, cognitive science, social science, communication science, and library science to deal with obtaining, gathering, organizing, manipulating, managing, storing, retrieving, recapturing, disposing of, distributing, and broadcasting information. The study of information systems.
+* Examples of information systems (p. 29): clinical information system (CIS), decision support system (DSS more commonly CDS), executive information system (EIS), geographic information system (GIS), management information system (MIS), knowledge work system (KWS), office system, transaction processing system (TPS), hospital information system (HIS)
+* CIOs, CTOs
+* microfluidic microchips
+* artificial intelligence (AI), internet of things (IoT), artificial intelligence of things (AIoT)
 
 ## Ch 3
 
@@ -22,7 +36,27 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 5
 
-## Ch 6
+## Ch 6 History and evolution of nursing informatics
+
+* Florence Nightingale - data
+* 1989 definition
+* 1990 NIWG in AMIA
+* evolving definition of NI over the years
+* NI scope and standards - 2022 3rd edition
+* DIKW (p. 113) - data (discrete facts), information (data + meaning), knowledge (information + relationships/interactions), wisdom (appropriate application of knowledge)
+* knowledge worker roles (p. 116): data gatherer, information user, knowledge user, knowledge builder
+* decision support nursing (p. 117): alerts/reminders, clinical guidelines, online information retrieval, clinical order sets/protocols, online access to policies
+* international classification of nursing practice (ICNP) (p. 119)
+* standardized nursing terminology (p. 122) terminology approved by an authority
+* enumerative approach to terminology - list with simple hierarchy (NANDA)
+* ontological approach to terminology - compositional (ICNP)
+* web ontology language (OWL)
+* NLM central coordinating body for clinical terminology standards (p. 123)
+* United States Core Data for Interoperability (USCDI)
+* clinical care classification system (CCC) (p. 125)
+* Organizations promoting NI competencies (p. 126): NLN Vision series, Quality and Safety Education for Nurses (QSEN), Technology Informatics Guiding Education Reform (TIGER)
+* AACN competencies (p. 127)
+* QSEN KSAs (p. 128)
 
 ## Ch 7
 
