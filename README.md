@@ -62,9 +62,38 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 8
 
-## Ch 9
+## Ch 9 Systems development lifecycle: Nursing informatics and organizational decision-making
 
-## Ch 10
+* systems development lifecycle (SDLC) (p. 183): waterfall, rapid prototyping (RAD), object-oriented system design (OOSD), dynamic system development method (DSDM)
+* waterfall model (p. 186) feasibility (TELOS), analysis, design, implement, test (individual modules, integration, volume, system as a whole, beta), maintain
+* rapid prototyping/application development (RAD) (p. 188) analysis and quick design, build, demonstrate, refine, testing, implentation
+* object-oriented systems development (OOSD) (p. 189)
+* dynamic system development method (DSDM) (p. 190) preproject, project life cycle (feasibility, functional model iteration, design and build interaction, implementation), postproject
+* must have, should have, could have, would have (MoSCoW) (p. 190)
+* agile (p. 192) scrum
+* computer-aided software engineering tools (CASE) (p. 193)
+* upper-case - analysis and design phases
+* lower-case - implementation
+* visible analyst & rational rose?
+* open source software (p. 194)
+* interoperability & HITECH Act (p. 195)
+
+## Ch 10 Administrative information systems
+
+* reasons for healthcare IS lag (p. 199): 1) high-stakes, 2) personal information, 3) highly regulated and competitive industry, 4) professionally driven and hierarchical, 5) multidisciplinary, 6) HIT systems are complex
+* definition of interoperability (p. 200) ability of systems to work together
+* metadata - data about systems (p. 200)
+* Health Interoperability Outcomes 2030 (p. 200)
+* four types of HIT interoperability (p. 201): foundational (requirements), structural (syntax and format), semantic (consistency and shared meanings), organizational (shared trust)
+* case management information systems (p. 202)
+* communications systems (p. 203)
+* core business systems (p. 205): 1) admission, discharge, and transfer (ADT); 2) financial systems; 3) acuity systems; 4) scheduling systems
+* enterprise resource planning (ERP) (p. 207)
+* order entry systems (p. 207) computerized physician order entry (CPOE)
+* patient care support systems (p. 208) CDI, EHR, pharmacy, laboratory, radiology RIS/PACS, managed care information systems
+* aggregating patient and organizational data (p. 210)
+* database entity relationship diagram, RDBMS, SQL (p. 212)
+* department collaboration and exchange of knowledge information (p. 216)
 
 ## Ch 11
 
