@@ -95,11 +95,36 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * database entity relationship diagram, RDBMS, SQL (p. 212)
 * department collaboration and exchange of knowledge information (p. 216)
 
-## Ch 11
+## Ch 11 The human-technology interface
+
+* poorly designed technology is problematic (p. 223)
+* human-technology interface (p. 224) UI/UX
+* human-technology interface problem (p. 227) some examples of failed projects
+* improving the human-technology interface (p. 231)
+* three axioms of design (p. 234): 1) users should be the focus during design, 2) iterative design process, 3) there should be formal evaluation
+* Axiom 1: user focus during design (p. 234) five levels of analysis (physical, psychological, team, organizational, political), 7+/-2, task analysis, cognitive task analysis, cognitive work analysis (work domain, control tasks, strategies, social-organizational, worker competencies)
+* Axiom 2: iterative design process (p. 235)
+* Axiom 3: formal evaluation (p. 237)
+* Evaluation framework (p. 240) fit between individuals, tasks, and technology (FITT)
+* Future of the human-technology interface (p. 241)
+* human-technology interface and task completion (p. 242)
 
 ## Ch 12
 
-## Ch 13
+## Ch 13 Achieving excellence by managing workflow and initiating quality projects
+
+* purpose of workflow analysis (p. 271)
+* HIMSS toolkit for workflow redesign (p. 272)
+* QI methods: TQM, BPR, PDCA, six sigma, lean, lean six sigma, BPM, 5 whys
+* policy initiatives (p. 273): ARRA, meaningful use, MACRA (MIPS, APM)
+* workflow and technology (p. 275)
+* optimization (p. 277)
+* workflow analysis and informatics practice (p. 278) building a redesign team, swim-lane diagram
+* waste (p. 281) overproduction, waiting, transport, inappropriate processing, unnecessary inventory, unnecessary motion, defects
+* variation
+* transitioning to the future state (p. 282)
+* measuring results (p. 284)
+* quality improvement initiatives (p. 285)
 
 ## Ch 14
 
