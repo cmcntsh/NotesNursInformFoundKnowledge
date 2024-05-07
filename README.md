@@ -126,7 +126,17 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * measuring results (p. 284)
 * quality improvement initiatives (p. 285)
 
-## Ch 14
+## Ch 14 Electronic health records and clinical informatics
+
+* Basic knowledge of EHRs considered entry-level competency. (p. 295)
+* Health Information Management Competency Model https://www.careeronestop.org/CompetencyModel/competency-models/electronic-health-records.aspx
+* Components of an EHR (p. 297) 1) health information and data, 2) results management, 3) order entry management, 4) decision support, 5) electronic communication and connectivity, 6) patient support, 7) administrative processes, 8) reporting and population health management
+  * EHR certification criteria (p. 298)
+* Benefits of EHR use (p. 303) 1) increased delivery of guideline-based care, 2) enhanced monitoring of disease conditions, 3) reduced medication errors, 4) decreased use of care
+* Successful ownership of EHR (p. 310) vendor selection, system selection, implementation planning, training and adoption planning, long-term optimization planning
+* Flexibility and expandability of EHR (interoperability)
+* Standardized terminology and the EHR (p. 309)
+* Ways EHRs support accountable care (p. 315)
 
 ## Ch 15
 
