@@ -138,7 +138,19 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Standardized terminology and the EHR (p. 309)
 * Ways EHRs support accountable care (p. 315)
 
-## Ch 15
+## Ch 15 Informatics tools to promote patient safety, quality outcomes, and interdisciplinary collaboration
+
+* Medical errors can lead to patient deaths. (p. 323)
+* Sentinel event (p. 324) - safety issue that results in death, permanent harm, or serious temporary harm that requires intervention.
+* Culture of safety (p. 324) culture of recognizing and responding to safety events
+* Root cause analysis or failure modes and effects analysis (p. 325) - what happened? why did it happen? how to prevent it from happening again?
+* Strategies for developing a safety culture (p. 326) AHRQ, Joint Commission, IHI
+* Seven steps for action planning: 1) Understand survey results, 2) communicate and discuss survey results, 3) develop focused action plans, 4) communicate action plans and deliverables, 5) implement action plans, 6) track progress and evaluate impact, 7) share what works.
+* Human factors and systems engineering (p. 328)
+* Information chaos (p. 328): information overload, information underload, information scatter, erroneous or conflicting information
+* Informatics technologies for patient safety (p. 334) CPOE, BCMA, CDS
+* workarounds (p. 338)
+* Additional technologies for patient safety (p. 340)
 
 ## Ch 16
 
