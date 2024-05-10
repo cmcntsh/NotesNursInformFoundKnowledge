@@ -156,7 +156,17 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 16
 
-## Ch 17
+## Ch 17 Using informatics to promote community and population health
+
+* several public health examples in the introduction (p. 377): SARS, MERS, Ebola, H1N1, Zika, COVID-19
+* Public health essential services (p. 380): 1) monitor population health status, 2) address problems affecting population, 3) inform and educate, 4) strengthen partnerships to improve health, 5) create policies and laws that improve health, 6) use regulatory actions to improve health, 7) enable equitable access, 8) build skilled public health workforce, 9) CQI, 10) maintain strong organizational structure for public health
+* What is public health informatics? (p. 380) John Snow, Florence Nightingale
+* Community health risk assessment: Tools for acquiring knowledge (p. 382) public heatlh risk assessment tool (PHRAT) 1) hazard identification, 2) dose-response, 3) exposure assessment, 4) risk characterization
+* Processing knowledge and information to support epidemiology and monitoring disease outbreaks (p. 384) standardized terminology, public health information network (PHIN), division of health informatics and surveillance (DHIS)
+* Applying knowledge to health disaster planning and preparation (p. 387)
+* Informatics tools to support communication and dissemination (p. 388)
+* Public health informatics competency model (p. 390) 1) principles and strategy, 2) standards and interoperability, 3) project management, 4) information systems, 5) communication, 6) evaluation, 7) analysis visualization reporting, 8) policy
+* Using feedback to improve responses and promote readiness (p. 390)
 
 ## Ch 18
 
