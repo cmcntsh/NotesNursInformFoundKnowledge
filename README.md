@@ -150,7 +150,9 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Information chaos (p. 328): information overload, information underload, information scatter, erroneous or conflicting information
 * Informatics technologies for patient safety (p. 334) CPOE, BCMA, CDS
 * workarounds (p. 338)
-* Additional technologies for patient safety (p. 340)
+* Additional technologies for patient safety (p. 340): medication administration, data collection, data management, CDS, cost effectiveness, 5 righs of information (right information, right people, right channel, right format, right time), smart rooms, wearable technology
+* Role of the nurse informaticist (p. 344) system configuration and maintenance, monitor systems, be involved in all stages of SDLC, bridge gap between IT staff and system users
+* Interdisciplinary collaboration (p. 346) 
 
 ## Ch 16
 
