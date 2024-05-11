@@ -154,7 +154,16 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Role of the nurse informaticist (p. 344) system configuration and maintenance, monitor systems, be involved in all stages of SDLC, bridge gap between IT staff and system users
 * Interdisciplinary collaboration (p. 346) 
 
-## Ch 16
+## Ch 16 Patient engagement and connected health
+
+* Consumer demand for information (p. 356)
+* Goal of Healthy People 2030 - eliminate disparities (p. 362)
+* Health literacy and health initiatives (p. 362): goal of Healthy People 2030
+* The health literacy umbrella (p. 363): build relationships, ensure understanding, partner
+* Healthcare organization approaches to engagement (p. 364) electronic information, classes, age-appropriate formats, social media
+* Promoting health literacy in school-age children (p. 366) gaming
+* Supporting use of the internet for health education (p. 367) HONcode, TURSTe certifications
+* Future directions for engaging patients (p. 371) connected health, wearables, increased access
 
 ## Ch 17 Using informatics to promote community and population health
 
