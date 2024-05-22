@@ -179,7 +179,7 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 18
 
-## Ch 19
+## Ch 19 Nursing informatics and nursing education
 
 * Nursing students need computer-mediated communication skills (p. 435)
 * Knowledge acquisition and sharing (p. 435)
@@ -205,7 +205,24 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Exploring information fair use and copyright restrictions (p. 468):
 * The future (p. 469): VR, IoE-IoT
 
-## Ch 20
+## Ch 20 Simulation, game mechanics, virtual worlds, an the realities in nursing education
+
+* virtual simulation increased with COVID-19 (p. 475), the need for more simulation was recognized
+* simulations - imitations of real-life events (p. 475)
+* Examples of simulation in informatics education (p. 476): use EHR as part of simulation scenario, EHR as simulation
+* reusable learning object (RLO) (p. 478)
+* Nursing informatics competencies in nursing education (p. 479):
+* (Chapter 7 & Chapter 20 discuss NI competencies and list some articles and organizations)
+* A case for simulation in nursing informatics education and nursing education (p. 480) four components of simulation: 1) prebrief, 2) enactment, 3) debrief, 4) assessment (PEDA)
+* scaffolding (p. 482)
+* Incorporating EHRs into the learning environment (p. 483): 1) incorporate into simulation scenario, 2) standalone learning tool
+* Challenges and opportunities (p. 487):
+* The future of simulation in nursing informatics education (p. 487):
+* Game mechanics and virtual world simulation for nursing education (p. 488): (description of online game not related to NI)
+* Game mechanics and educational or serious games (p. 490): edutainment,
+* Virtual worlds in education (p. 492):
+* Choosing among simulations, serious games, and virtual worlds (p. 493):
+* The future of simulations, serious games, virtual worlds, and the realities in nursing education (p. 500):
 
 ## Ch 21
 
