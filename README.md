@@ -236,7 +236,18 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 22
 
-## Ch 23
+## Ch 23 Generating and translating evidence for practice (& bioinformatics)
+
+* Clarification of terms (p. 553) EBP - use of best evidence, research utilization - use of research findings in practical application, translational research - turning research into bedside clinical interventions
+* History of EBP (p. 556):
+* Evidence (p. 557): meta-analysis, individual experimental studies, quasi-experimental studies, nonexperimental studies, program evaluations, expert opinion
+* Bridging the gap between research and practice (p. 558): Iowa model, implementation science
+* Barriers and facilitators of EPB (p. 559): institutional barriers, lack of knowledge, lack of motivation, time management, physician and patient factors, limited access to current computer systems
+* The role of informatics (p. 559): REDCap, CD2H, translational informatics, CTSA, QSEN, AHRQ, TRIP, TRIP-II
+* Developing evidence-based practice guidelines (p. 562): Iowa model, Stetler Model, ACE Star Model
+* Meta-analysis and generation of knowledge (p. 563): meta-analysis, open access, SPARC
+* Expanding research boundaries and effects on clinical translation (p. 564): genomics and computational biology, international HapMap project, human genome project, Cancer Genome Atlas project
+* The future (p. 569):
 
 ## Ch 24
 
