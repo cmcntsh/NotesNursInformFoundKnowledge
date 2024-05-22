@@ -181,6 +181,30 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 19
 
+* Nursing students need computer-mediated communication skills (p. 435)
+* Knowledge acquisition and sharing (p. 435)
+* Evolution of learning management systems (p. 436): hardware and software purchases, security, support
+* Delivery modalities (p. 437): faster delivery, fewer boundaries
+* Face-to-face delivery (p. 438): 5% retention
+* Online delivery (p. 439): asynchronous, verify identity, many online information sources, blockchain for verification, digital leger technology for libraries
+* Hybrid or blended delivery (p. 441):
+* Competency-based learning (p. 442): QSEN, AACN, TIGER, track competency achievement
+* Technology tools supporting education (p. 443): millennials, Gen Z
+* Tutorials (p. 443): self-paced, stand-alone
+* Case scenarios (p. 444): performance-based, interprofessional
+* Portfolios (p. 445): E-portfolios, networking, collect-select-reflect-connect, blog, privacy and security
+* Simulations (p. 450): mannequin, computer-based
+* Virtual reality (p. 450):
+* Internet-based tools (p. 451)
+* Digital books (p. 451), Webcases and webinars, searching, instant messaging, online chats, email lists, portals, podcasts, videos, multimedia
+* Promoting active and collaborative learning (p. 457): smartphones, 5 elements for learning: 1) face-to-face, 2) mutual learning goals, 3) equal participation and accountability, 4) regular debriefing, 5) cooperative group process skills, provide scaffolding, other support
+* AI agents (p. 461): disruptive technology
+* Knowledge dissemination (p. 462):
+* Networking (p. 465): ICN INP/APNN
+* Presenting and publishing (p. 466):
+* Exploring information fair use and copyright restrictions (p. 468):
+* The future (p. 469): VR, IoE-IoT
+
 ## Ch 20
 
 ## Ch 21
