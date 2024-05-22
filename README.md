@@ -224,7 +224,15 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Choosing among simulations, serious games, and virtual worlds (p. 493):
 * The future of simulations, serious games, virtual worlds, and the realities in nursing education (p. 500):
 
-## Ch 21
+## Ch 21 Nursing research: data collection, processing, and analysis
+
+* Nursing research and the foundation of knowledge model (p. 515): information literacy competency standards for nursing: determine nature and extend of information needed, access needed information, critically evaluate information and sources, use information effectively, understand issues surrounding use of information.
+* Knowledge generation through nursing research (p. 516): information literacy: find, understand, evaluate, use information
+* Information literacy (p. 517): finding, analysis, critical thinking, evaluating, problem-solving, understanding, communication, synthesis, application, technology
+* Acquiring previously gained knowledge through internet and library holdings (p. 518): professional online databases, search engines, electronic library catalogs
+* Fair use and information sharing (p. 520):
+* Informatics tools for collecting data and storing information (p. 521): OHDSI, OMOP, CDM
+* Tools for processing data and data analysis (p. 523): quantitative data analysis, qualitative data analysis
 
 ## Ch 22
 
