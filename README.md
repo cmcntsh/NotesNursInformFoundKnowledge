@@ -234,7 +234,20 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Informatics tools for collecting data and storing information (p. 521): OHDSI, OMOP, CDM
 * Tools for processing data and data analysis (p. 523): quantitative data analysis, qualitative data analysis
 
-## Ch 22
+## Ch 22 Informatics-based research processes: Data mining and artificial intelligence
+
+* Big data, data mining, and knowledge discovery (p. 529): EDW, BD2K, findable-accessible-interoperable-reusable (FAIR), unstructured 75%, exponential growth in data, four stage process: 1) problem identification, 2) data exploration, 3) pattern discovery, 4) knowledge deployment; 15,000/70,000 medical informaticists (p. 533);
+* Knowledge discovery and data mining research (p. 534): CART;
+* Data mining concepts (p. 535): bagging - voting and averaging models; boosting; exploratory data analysis; machine learning; meta-learning
+* Data mining techniques (p. 536): neural networks; decision tree; online analytic processing (OLAP); brushing
+* Data mining models (p. 540): CRISP-DM, Six Sigma, SEMMA
+* Six sigma and lean (p. 541): DMAIC steps: define, measure, analyze, improve, control
+* SEMMA (p. 542) sample, explore, modify, model, assess
+* Benefits of knowledge discovery and data mining (p. 543):
+* Data mining and electronic health records (p. 544):
+* Ethics of data mining (p. 545):
+* Artificial intelligence, machine learning, and deep learning (p. 545):
+* Bioinformatics, biomedical informatics, and computational biology (p. 547):
 
 ## Ch 23 Generating and translating evidence for practice (& bioinformatics)
 
@@ -251,5 +264,20 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 24
 
-## Ch 25
+## Ch 25 Our expanding realities and the metaverse
+
+* Overview: informatics and the realities (p. 597):
+* Nursing informatics and the realities (p. 598):
+* Realities (p. 599): AR, MR, XR, VR, IoT, AIoT
+* BHAGs (p. 601):
+* Telemedicine (p. 604):
+* Big data (p. 604):
+* IoT, IoT, AIoT (p. 605):
+* AI (p. 606):
+* Robots (p. 608):
+* Smart devices (p. 610):
+* Haptic technology (p. 611):
+* Metaverse (p. 611): virtual space; four foundational pillars of the metaverse: virtual environment, user experience, economy, technology
+* How the metaverse will affect healthcare (p. 614):
+* Challenges facing the realization of the metaverse (p. 617):
 
