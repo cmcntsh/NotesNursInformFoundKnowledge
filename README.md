@@ -34,7 +34,18 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 4
 
-## Ch 5
+## Ch 5 Ethical applications in informatics
+
+* Ethics (p. 78): examine viewpoints related to moral questions of right and wrong.
+* Bioethics (p. 79): study of healthcare ethics.
+* Ethical dilemmas and morals (p. 83):
+* Ethical decision-making (p. 83): making informed choices based on standards.
+* Theoretical approaches to healthcare ethics (p. 84): Guiding principles: 1) autonomy, 2) nonmaleficence, 3) negligence, 4) beneficence, 5) justice
+* Rules for guiding actions (p. 87): 1) substantive, 2) authority, 3) procedural
+* Husted model (p. 87): 1) autonomy, 2) freedom, 3) veracity, 4) privacy, 5) beneficence, 6) fidelity
+* Applying ethics to informatics (p. 89):
+* Case analysis demonstration (p. 92): examine the ethical dilemma, thoroughly comprehend the possible alternatives, hypothesize ethical arguments, investigate and evaluate arguments for each alternative, choose a recommended alternative, act on choice, examine the outcomes
+* New frontiers in ethical issues (p. 98):
 
 ## Ch 6 History and evolution of nursing informatics
 
@@ -60,7 +71,15 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 
 ## Ch 7
 
-## Ch 8
+## Ch 8 Legislative aspects of nursing informatics: HIPAA, HITECH, and beyond
+
+* HIPAA (p. 153): security and privacy, meaningful use (2010), HIPAA (1996), HITECH (2009), MACRA (2015), Cures act (2016), PHI, patient ownership of healthcare record, deidentification
+* HITECH (p. 156): ARRA, meaningful use, established ONC, healthcare associated infections,
+* How a national health IT infrastructure was developed (p. 161):
+* How the HITECH act changed HIPAA (p. 162):
+* The HITECH act enhanced HIPAA protections (p. 164):
+* Implications for nursing practice (p. 169): be involved, stay informed, protect yourself
+* Recent laws and regulations (p. 172):
 
 ## Ch 9 Systems development lifecycle: Nursing informatics and organizational decision-making
 
@@ -109,7 +128,14 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Future of the human-technology interface (p. 241)
 * human-technology interface and task completion (p. 242)
 
-## Ch 12
+## Ch 12 Electronic security
+
+* Securing network information (p. 252):
+* Authentication of users (p. 253):
+* Blockchain (p. 255):
+* Use case for blockchain technology (p. 256): distribution ledger technology
+* Threats to security (p. 257): brute force attack, zero day attack, malicious insider, removable storage, spyware, ransomware, social engineering, phishing
+* Security tools (p. 262):
 
 ## Ch 13 Achieving excellence by managing workflow and initiating quality projects
 
