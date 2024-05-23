@@ -288,7 +288,13 @@ McGonigle, D., & Mastrian, K. (2025). Nursing informatics and the foundation of 
 * Expanding research boundaries and effects on clinical translation (p. 564): genomics and computational biology, international HapMap project, human genome project, Cancer Genome Atlas project
 * The future (p. 569):
 
-## Ch 24
+## Ch 24 The art of caring in technology-laden environments
+
+* Caring theories (p. 582): cognitive energy, carative factors, (body language and attitude), is technology replacing person-to-person contact? transactive relationship theory of nursing (TRETON),
+* Presence (p. 586):
+* Strategies for enhancing caring presence (p. 587): active listening,
+* Reflective practice (p. 590): centering
+* Caring in the future (p. 592):
 
 ## Ch 25 Our expanding realities and the metaverse
 
